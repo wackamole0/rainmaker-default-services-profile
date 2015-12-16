@@ -1,0 +1,10 @@
+{
+  "type": "project",
+  "name": "rainmaker/default-services",
+  "downloadBaseUrl": "http://image.rainmaker-dev.org",
+  "profiles": [
+    {
+      "version": "1.0"
+    }
+  ]
+}
